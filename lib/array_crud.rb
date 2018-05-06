@@ -3,6 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
+  fruit_array = Array.new
   fruit_array = [apple, orange, mango, watermelon]
 end
 
